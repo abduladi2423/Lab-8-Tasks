@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\W10\source\repos\lower case\lower case\FileName.cpp(9,7): warning C4101: 'result': unreferenced local variable
+  lower case.vcxproj -> C:\Users\W10\source\repos\lower case\x64\Debug\lower case.exe
